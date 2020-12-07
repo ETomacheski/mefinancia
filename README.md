@@ -14,7 +14,14 @@ API desenvolvido na open Baking hacka lina, organizada pela  **[Shawee][shawee_s
 
 ## **:rocket: Objetivo**
 
-Objetivo
+É uma solução para quem não consegue comprovar renda ou para as pessoas
+que por algum detalhe burocrático acabam tendo seu financiamento ou
+acesso a outros produtos relacionados a crédito negado. De forma simples e
+prática, o usuário só precisará dar autorização para o Me Financia acessar os
+seus dados bancários e o mesmo irá gerar um SCORE que será apresentado
+para as instituições financeiras que enviarão, automaticamente, propostas de
+produtos de crédito para aquela pontuação.
+O usuário só terá que escolher qual proposta lhe interessa, contratar, esperar a aprovação pela instituição fornecedora do produto e pronto, já terá acesso ao crédito para financiar seu imóvel. E se manter o pagamento das parcelas em dia e se conseguir pagar mais de uma parcela por mês, será bonificado com pontos para aumentar seu SCORE.
 
 ## **:computer: Tecnologias**
 
