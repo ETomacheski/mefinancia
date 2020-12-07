@@ -8,7 +8,7 @@
 
 <h3 align="center">
 
-API desenvolvido na MegaHack 2° edição, desafio CPLF, organizada pela  **[Shawee][shawee_site]** utilizando as tecnologias ***Node.js***.
+API desenvolvido na open Baking hacka lina, organizada pela  **[Shawee][shawee_site]** utilizando as tecnologias ***Node.js***.
 
 </h3>
 
@@ -22,21 +22,12 @@ Objetivo
 
   - **Express**
   - **CORS**
-  - **Postgress**
   
 
 ## Arquivo .env
 
-```json
- 
-DB_HOST=''
+ACCESS_TOKEN = ''
 
-DB_USER=''
-
-DB_PASS=''
-
-DB_NAME=''
- 
 ```
 ### **Executando o Projeto**
 
